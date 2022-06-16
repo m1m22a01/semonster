@@ -7,6 +7,7 @@ public class Main {
     
     player.drawMonsters();
     player.showDeck();
+    System.out.println("Main 修正2");
   }
 }
 
